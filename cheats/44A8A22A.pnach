@@ -1,0 +1,54 @@
+gametitle=GOW 2 PAL
+comment=GOW 2 PAL sces_542.06
+
+//Infinite Health 
+patch=1,EE,20A5C5B8,extended,43480000
+patch=1,EE,20A5D318,extended,42C80000
+
+//Infinite Double Jumps 
+patch=1,EE,20226484,extended,00000000
+
+//Max/Infinite Red Orb 
+patch=1,EE,206F3EBC,extended,000F423F
+
+//Infinite Magic 
+patch=1,EE,20335240,extended,43480000
+patch=1,EE,002D8038,extended,00000001
+
+//Infinite Rage of the Titans 
+patch=1,EE,20335248,extended,42C80000
+patch=1,EE,002D803C,extended,00000001
+
+//Infinite Amulet of the Fates Power 
+patch=1,EE,20335244,extended,42C80000
+
+//Weapons Can Turn Enemies to Stone 
+patch=1,EE,002D8040,extended,00000001
+
+//10x Orb Multiplier 
+patch=1,EE,002D8048,extended,00000001
+
+//Extend Combo Time 
+patch=1,EE,002D804C,extended,00000001
+
+//Replace Chrono' Rage with Posedion's Rage 
+patch=1,EE,002D8044,extended,00000001
+
+//Disable AI 
+patch=1,EE,D02D7A10,extended,00001002
+patch=1,EE,20201AC4,extended,24100000
+patch=1,EE,D02D7A10,extended,00004002
+patch=1,EE,20201AC4,extended,0080802D
+
+
+//Treasure Room Complete 
+patch=1,EE,102D8A4C,extended,000001FF
+
+//Have All 20 Cyclopse Eyes 
+patch=1,EE,0033527C,extended,00000014
+
+//Have All Phoenix Feathers 
+patch=1,EE,00335277,extended,00000012
+
+//All Gorgon Eyes 
+patch=1,EE,00335276,extended,00000012
