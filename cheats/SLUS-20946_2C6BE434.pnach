@@ -1,0 +1,389 @@
+gametitle= Grand Theft Auto San Andreas
+
+// Dinheiro Máximo
+patch=1,EE,2070A244,extended,3B9AC9FF
+patch=1,EE,2070A248,extended,3B9AC9FF
+
+// Saúde Infinita
+patch=1,EE,202A9C48,extended,3C0142C8
+patch=1,EE,202A9C50,extended,AC610580
+patch=1,EE,202A9C54,extended,3063FFFF
+
+// Colete Infinito (Armor)
+patch=1,EE,202A9968,extended,3C0142C8
+patch=1,EE,202A996C,extended,AC610588
+
+// Nunca sentir fome
+patch=1,EE,202649DC,extended,A6200170
+
+// Fôlego Infinito (Debaixo d'água)
+patch=1,EE,201A7FF4,extended,00000000
+
+// Correr Infinito
+patch=1,EE,0070A2D8,extended,00000001
+
+// Munição Infinita - Todas as Armas
+patch=1,EE,20134344,extended,00000000
+patch=1,EE,201343A8,extended,00000000
+
+// Munição Infinita Máxima - Todas as Armas
+patch=1,EE,20134340,extended,24020063
+patch=1,EE,201343A4,extended,24020063
+
+// Munição Infinita - Todas as Armas (Dentro do carro)
+patch=1,EE,20134604,extended,00000000
+patch=1,EE,20134664,extended,00000000
+
+// Munição Infinita Máxima - Todas as Armas (Dentro do carro)
+patch=1,EE,20134600,extended,24020063
+patch=1,EE,20134660,extended,24020063
+
+// Ter todas as namoradas
+//patch=1,EE,206B2DD8,extended,FFFFFFFF
+
+// Carro não sofre dano
+patch=1,EE,20146A2C,extended,00000000
+patch=1,EE,20146A40,extended,00000000
+
+// Nitro Infinito
+patch=1,EE,20159BF0,extended,00000000
+
+// Carro Imune a Armas
+patch=1,EE,2016A504,extended,00000000
+patch=1,EE,1016A568,extended,00000202
+
+// Nunca perder suas armas
+patch=1,EE,201997F0,extended,03E00008
+patch=1,EE,201997F4,extended,00000000
+
+// Combustível Infinito (Avião de controle remoto)
+patch=1,EE,201FB3A8,extended,00000000
+
+// Salvar o jogo não aumenta o tempo diário
+patch=1,EE,202A2320,extended,03E00008
+patch=1,EE,202A2324,extended,00000000
+
+// Tempo Infinito
+patch=1,EE,20292CB0,extended,03E00008
+patch=1,EE,20292CB4,extended,00000000
+
+// Avião de controle remoto não sofre dano
+patch=1,EE,2031D5EC,extended,00000000
+
+// Nunca ser preso
+patch=1,EE,2046B3A0,extended,03E00008
+patch=1,EE,2046B3A4,extended,00000000
+
+// Ultra Pulo
+patch=1,EE,104C7068,extended,00004420
+
+// Trapaças não resetam ao morrer ou carregar jogo
+patch=1,EE,2059D990,extended,03E00008
+patch=1,EE,2059D994,extended,00000000
+
+// Apertar L1 doze vezes para o Jetpack
+patch=1,EE,2064AEC0,extended,B2904560
+
+// Ter todas as pichações feitas (Tags)
+patch=1,EE,2066CCC0,extended,00000064
+
+// Aviões têm melhor dirigibilidade
+patch=1,EE,40696E9C,extended,00080016
+patch=1,EE,3A900000,extended,00000000
+patch=1,EE,40696EA4,extended,00060016
+patch=1,EE,38FC0000,extended,00000000
+patch=1,EE,20697264,extended,3AC50000
+patch=1,EE,2069726C,extended,391E0000
+
+// Garagem de Importação/Exportação completa
+//patch=1,EE,1080E450,extended,0000FFFF
+//patch=1,EE,1080E454,extended,0000FFFF
+//patch=1,EE,1080E458,extended,0000FFFF
+//patch=1,EE,1080E45C,extended,0000FFFF
+
+// Sem dano de queda
+patch=1,EE,20196694,extended,00000000
+
+// CJ tem soco matador
+//patch=1,EE,0088E2C3,extended,00000001
+
+// Sex Appeal Máximo
+patch=1,EE,0088E2D0,extended,00000001
+
+// Respeito Total Máximo
+patch=1,EE,0088E2CF,extended,00000001
+
+// Ganho de habilidade mais rápido
+patch=1,EE,40803244,extended,00090001
+patch=1,EE,3F000000,extended,00000000
+patch=1,EE,20803270,extended,3F000000
+patch=1,EE,20803274,extended,3F000000
+
+// Habilidade Máxima com Moto
+patch=1,EE,20802FF4,extended,000003E8
+
+// Máximo em Ciclismo, Natação, Corrida e Fôlego
+patch=1,EE,408031C0,extended,00040001
+patch=1,EE,447A0000,extended,00000000
+
+// Máximo em Direção, Voo, Motos e Ciclismo
+//patch=1,EE,408031D0,extended,00050001
+//patch=1,EE,447A0000,extended,00000000
+
+// Habilidade Máxima de Direção
+patch=1,EE,20802EE0,extended,000003E8
+
+// Habilidade Máxima de Voo
+patch=1,EE,20802FDC,extended,000003E8
+
+// Sorte Máxima
+patch=1,EE,20803004,extended,05F5E0FF
+
+// Máximo de Músculo, Capacidade Pulmonar e Saúde
+//patch=1,EE,408031E4,extended,00030001
+//patch=1,EE,447A0000,extended,00000000
+
+// Estamina Máxima
+patch=1,EE,20802D48,extended,447A0000
+
+// Atributos não diminuem
+patch=1,EE,4080321C,extended,00030001
+patch=1,EE,00000B90,extended,00000000
+patch=1,EE,20803268,extended,47C34F80
+patch=1,EE,2080326C,extended,47C34F80
+
+// Ranking Máximo de Piloto
+patch=1,EE,20802F04,extended,447A0000
+
+// Número Máximo de vezes que "marcou" com uma garota
+patch=1,EE,20802F4C,extended,05F5E0FF
+
+// Número Máximo de encontros bem-sucedidos
+patch=1,EE,20802F50,extended,05F5E0FF
+
+// Número Máximo de garotas que namorou
+patch=1,EE,20802F48,extended,05F5E0FF
+
+// Habilidade Máxima com AK47
+patch=1,EE,20802E24,extended,447A0000
+
+// Máximo de balas disparadas
+patch=1,EE,20802E58,extended,05F5E0FF
+
+// Máximo de balas que acertaram o alvo
+patch=1,EE,20802E60,extended,05F5E0FF
+
+// Habilidade Máxima com Espingarda de Combate
+patch=1,EE,20802E18,extended,447A0000
+
+// Habilidade Máxima com Desert Eagle
+patch=1,EE,20802E0C,extended,447A0000
+
+// Máximo de KG de explosivos usados
+patch=1,EE,20802E5C,extended,05F5E0FF
+
+// Habilidade Máxima com M4
+patch=1,EE,20802E28,extended,447A0000
+
+// Habilidade Máxima com Pistola Metralhadora
+patch=1,EE,20802E1C,extended,447A0000
+
+// Habilidade Máxima com Espingarda de Cano Curto (Sawn-Off)
+patch=1,EE,20802E14,extended,447A0000
+
+// Habilidade Máxima com Espingarda (Shotgun)
+patch=1,EE,20802E10,extended,447A0000
+
+// Habilidade Máxima com Pistola Silenciada
+patch=1,EE,20802E08,extended,447A0000
+
+// Habilidade Máxima com SMG
+patch=1,EE,20802E20,extended,447A0000
+
+// Todas as Ostras coletadas
+patch=1,EE,2080302C,extended,00000032
+
+// Todas as Fotos tiradas
+patch=1,EE,20802FFC,extended,00000032
+
+// Ter todas as Ferraduras
+patch=1,EE,20803024,extended,00000032
+
+// Máximo de Incêndios apagados
+patch=1,EE,20802EC4,extended,05F5E0FF
+
+// Carros com melhor dirigibilidade
+//patch=1,EE,004A42AC,extended,90597321
+
+// Nunca perder sua localização
+patch=1,EE,202A218C,extended,00000000
+
+// Carregamento mais rápido
+patch=1,EE,2053C798,extended,03E00008
+patch=1,EE,2053C79C,extended,00000000
+
+// Repintura de carro grátis
+patch=1,EE,0066C700,extended,00000001
+
+// Super Pulo
+patch=1,EE,104C7068,extended,00004248
+
+
+// Ter todas as namoradas (Ativo)
+patch=1,EE,206B2DD8,extended,FFFFFFFF
+
+// Nunca ser procurado pela polícia
+patch=1,EE,2027BF74,extended,24040000
+
+
+gametitle=Grand Theft Auto: San Andreas (SLUS-20946GH) 2C6BE434 / Ver 3.00
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta, DanielSantos, ThirteenAG, kesterstudios
+description=GTA San Andreas Modern Widescreen Fix for 3.00/GH
+patch=1,EE,007004EF,extended,01 //Widescreen fix by PeterDelta
+patch=1,EE,0021E040,extended,A2
+patch=1,EE,0020A4F8,extended,AC
+patch=1,EE,002081DC,extended,AC
+patch=1,EE,002ECAF0,extended,40
+patch=1,EE,002ECB40,extended,D0
+//-------------------------------------------------HUD-------------------------------------------------//
+patch=0,EE,20664384,extended,3ecccccd //Wanted Width
+patch=0,EE,20664390,extended,3ef5c28f //Wanted Shadow Width
+patch=0,EE,2026E09C,extended,3c084280 //Radar Width
+patch=0,EE,2026ED60,extended,3c024280 //Radar Mask Width
+patch=0,EE,2026EE90,extended,3c034280 //Radar Mask Width
+patch=0,EE,2026EF78,extended,3c034280 //Radar Mask Width
+patch=0,EE,20269588,extended,3c024280 //Radar Width unknown
+patch=0,EE,2026E6B8,extended,3c024280 //Radar Width plane green overlay
+patch=0,EE,202ACA08,extended,3c024258 //Radar Width plane overlay
+patch=0,EE,202ACA74,extended,3c024270 //Radar Heigth plane overlay
+patch=0,EE,202ACD5C,extended,3c0341e3 //Radar Disc Width left up
+patch=0,EE,202ACD60,extended,3c0243aa //Radar Disc Width left up
+patch=0,EE,202ACD70,extended,3c034280 //Radar Disc Width left up
+patch=0,EE,202ACD74,extended,3c0243bf //Radar Disc Width left up
+patch=0,EE,202ACDA8,extended,3c0342c6 //Radar Disc Width right up
+patch=0,EE,202ACDAC,extended,3c0243aa //Radar Disc Width right up
+patch=0,EE,202ACDBC,extended,3c034280 //Radar Disc Width right up
+patch=0,EE,202ACDC0,extended,3c0243bf //Radar Disc Width right up
+patch=0,EE,202ACDF4,extended,3c0341e3 //Radar Disc Width left down
+patch=0,EE,202ACDF8,extended,3c0243d4 //Radar Disc Width left down
+patch=0,EE,202ACE08,extended,3c034280 //Radar Disc Width left down
+patch=0,EE,202ACE0C,extended,3c0243bf //Radar Disc Width left down
+patch=0,EE,202ACE40,extended,3c0342c6 //Radar Disc Width right down
+patch=0,EE,202ACE44,extended,3c0243d4 //Radar Disc Width right down
+patch=0,EE,202ACE54,extended,3c034280 //Radar Disc Width right down
+patch=0,EE,202ACE58,extended,3c0243bf //Radar Disc Width right down
+patch=0,EE,2026AEB4,extended,3c034270 //Radar Blip disc Width
+patch=0,EE,2026E0AC,extended,3c064280 //Radar X Pos
+patch=0,EE,2026ED70,extended,3c024280 //Radar Mask X Pos
+patch=0,EE,2026EE9C,extended,3c044280 //Radar Mask X Pos
+patch=0,EE,2026EF94,extended,3c044280 //Radar Mask X Pos
+patch=0,EE,2026AECC,extended,3c034280 //Radar Blip disc X Pos
+patch=0,EE,2026E6D4,extended,3c024280 //Radar X Pos plane green overlay
+patch=0,EE,202ACA10,extended,3c034280 //Radar X Pos plane overlay
+patch=0,EE,202AA004,extended,3C024210 //Fist Icon Width
+patch=0,EE,202A9F44,extended,3c024190 //Weapon Icon Width
+patch=0,EE,202ABB50,extended,2405020D //Weapon Icon Pos X
+patch=0,EE,202ABB8C,extended,2405020D //Weapon Icon Pos X - Player 2
+patch=0,EE,20663EC8,extended,3e800000 //Ammo Width
+patch=0,EE,202ABBA0,extended,2405021F //Ammo X Pos
+patch=0,EE,202ABBDC,extended,2405021F //Ammo X Pos - Player 2
+patch=0,EE,202A9C94,extended,3c0242A8 //Health bar width
+patch=0,EE,202A9A14,extended,2404002F //Armor bar width
+patch=0,EE,202A9B14,extended,2404002F //Breath bar width
+patch=0,EE,202AB62C,extended,24050231 //Armor bar pos x
+patch=0,EE,202AB670,extended,24050231 //Armor bar pos x
+patch=0,EE,202AB7C0,extended,24050231 //Breath bar pos x
+patch=0,EE,202AB808,extended,24050231 //Breath bar pos x
+
+//CRadar::DrawBlips - Radar Centre
+patch=0,EE,2026869C,extended,24050006
+patch=0,EE,202686A4,extended,24060008
+patch=0,EE,202686D4,extended,24050006
+patch=0,EE,202686DC,extended,24060008
+patch=0,EE,202ADB30,extended,3c033ecc //Mission timers
+patch=0,EE,202AD93C,extended,3c023f33 //Vehicle name width
+patch=0,EE,202AFDBC,extended,3c023f33 //Mission title width
+patch=0,EE,202AD3AC,extended,c78c8384 //Area name width hook - 0x663474
+patch=0,EE,20664348,extended,3ecccccd //Money Width
+patch=0,EE,206643D8,extended,3ecccccd //Subtitles Width
+patch=0,EE,20663DF4,extended,3EB33333 //Help box Width
+patch=0,EE,202AC550,extended,C78C82BC //DrawVitalStats weekday width hook
+patch=0,EE,202AC548,extended,C78D899C //DrawVitalStats weekday height hook
+patch=0,EE,2023E624,extended,3c023f33 //CMenuManager::DrawWindow title width
+patch=0,EE,202ACBC4,extended,3C0341d4 //AltitudeBar width
+patch=0,EE,202ACD20,extended,3C0241e5 //AltitudeCounter width
+patch=0,EE,202ACD10,extended,3C034190 //AltitudeCounter X Pos
+
+//-------------------------------------------------Menu------------------------------------------------//
+
+patch=0,EE,20234AA4,extended,24040001 //Set Menu Text Body
+
+patch=0,EE,20234A74,extended,c78c8b68 //Hook Menu Items Width to Subtitles width
+patch=0,EE,20235558,extended,c78c8b68 //Hook Menu Items Width to Subtitles width
+patch=0,EE,202421F0,extended,3c023ecc //Set Menu Labels Width
+
+[Remove Ghosting Effects]
+author=Silent, PeterDelta
+description=Removes the ghosting effect from radiosity and color filter post effects, preserving the slight bloom effect. Also disables the seam remover post effect.
+
+patch=0,EE,00668C5C,extended,00 // CPostEffects::m_bSeamRemover
+patch=0,EE,20668CE4,extended,00000000 // CPostEffects::m_RadiosityFilterPasses
+
+// These values are read from stream.ini from the init overlay, so we have to patch them every frame
+patch=1,EE,20668D28,extended,00000000 // CPostEffects::m_colourLeftUOffset
+patch=1,EE,20668D2C,extended,00000000 // CPostEffects::m_colourRightUOffset
+patch=1,EE,20668D30,extended,00000000 // CPostEffects::m_colourTopVOffset
+patch=1,EE,20668D34,extended,00000000 // CPostEffects::m_colourBottomVOffset
+
+[Remove Color Filter]
+author=Silent
+description=Removes the color filter, making the game look more like the PC version, without the yellow tint.
+
+patch=0,EE,20515C68,extended,00000000 // NOP CPostEffects::ColourFilter
+
+[60 FPS]
+author=someother1ne
+description=Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.
+patch=1,EE,D066804C,extended,00000002
+patch=1,EE,0066804C,extended,10000001
+
+[Silentpatch Lite Fixes]
+author=DanielSantos, ported by kesterstudios, with consideration to Silent
+description=Silentpatch Lite Fixes for 3.00
+
+//------------------------------------------------Fixes------------------------------------------------//
+
+//Linear Filtering for License Plates
+patch=0,EE,204A4D94,extended,34630002 //ori $v1, 2 //RWLINEARFILTER
+
+//Fixed ammo for melee weapons in cheats
+patch=0,EE,2059DFEC,extended,24060001 //li $s2 1 //knife
+patch=0,EE,2059E0F8,extended,24060001 //li $s2 1 //knife
+patch=0,EE,2059E2C0,extended,24060001 //li $s2 1 //chainsaw
+patch=0,EE,2059E394,extended,24060001 //li $s2 1 //chainsaw
+patch=0,EE,2059FDDC,extended,24060001 //li $s2 1 //parachute
+patch=0,EE,2059FB1C,extended,24060001 //li $s2 1 //katana
+
+//014C cargen counter fix (by spaceeinstein)
+patch=0,EE,20295C00,extended,2C61FFFF //slti => sltiu
+patch=0,EE,20295C04,extended,10000004 //beqz => b
+
+// Don't clean the car BEFORE Pay 'n Spray doors close, as it gets cleaned later again anyway!
+patch=0,EE,202E42FC,extended,00000000 //nop
+
+// Fixed muzzleflash not showing from last bullet
+patch=0,EE,20407464,extended,00000000 //nop
+
+// Help boxes showing with big message
+// Game seems to assume they can show together
+patch=0,EE,202AE4B0,extended,00000000 //nop
+
+// Weapon icon fix (crosshairs mess up rwRENDERSTATEZWRITEENABLE)
+patch=0,EE,202AAC54,extended,00000000 //nop
+patch=0,EE,202AB394,extended,00000000 //nop
+patch=0,EE,202AB3C4,extended,00000000 //nop
+
+
